@@ -9,4 +9,5 @@ Pinot repository contains the .yaml files to deploy the apache Pinot server in k
 
 Ssuperset repository contains the .yaml files to deploy the apache Superset server in kubernetes.
 
+Demo video: https://youtu.be/cjSEL_Do8kM
 
